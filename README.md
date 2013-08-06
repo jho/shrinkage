@@ -3,6 +3,11 @@ shrinkage
 
 Python scripts to shrink down movies from your iPhone and save space on your hard drive.
 
+Features
+--------
+* Corrects rotation using qrotate.py (makes your videos work better outside of Quicktime)
+* Shrinks the files way down without any noticable loss in quality.
+
 Requirements
 ------------
 
