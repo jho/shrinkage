@@ -15,12 +15,8 @@ Usage
 
 2. Backup your videos!!!!  (This script is very experimental and barely tested)
 
-2. Run `shrinkage.py`:
-
-```
-shrinkage.py "Path\To Videos\To Encode"
-```
+3. Run it: `shrinkage.py "Path\To Videos\To Encode"`
   
-3. Use all your newly regained hard drive space.
+4. Use all your newly regained hard drive space.
 
 Use cron to run this script weekly to keep your library small.
