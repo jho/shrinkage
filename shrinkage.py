@@ -8,6 +8,10 @@ from sys import stdout
 from subprocess import Popen, PIPE
 from qtrotate import get_set_rotation
 
+__author__ = "Joshua Hollander"
+__email__ = "jholla14@gmail.com"
+__copyright__ = "Copyright 2013, Joshua Hollander"
+
 FNULL = open(os.devnull, 'w')
 
 def is_movie_file(filename, extensions=['.avi', '.AVI', '.mov', '.MOV']):

@@ -27,6 +27,10 @@ import os
 import struct
 import sys
 
+__author__ = "Daniel G. Taylor"
+__email__ = "dan@programmer-art.org"
+__copyright__ = "Copyright 2008 - 2009 Daniel G. Taylor"
+
 def read_atom(datastream):
     """
         Read an atom and return a tuple of (size, type) where size is the size
