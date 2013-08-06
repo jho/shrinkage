@@ -17,7 +17,9 @@ Usage
 
 2. Run `shrinkage.py`:
 
-  shrinkage.py "Path\To Videos\To Encode"
+```
+shrinkage.py "Path\To Videos\To Encode"
+```
   
 3. Use all your newly regained hard drive space.
 
